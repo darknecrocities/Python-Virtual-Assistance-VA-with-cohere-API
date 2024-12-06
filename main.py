@@ -84,11 +84,11 @@ def perform_task(query):
         
     elif 'open gmail' in query or 'check gmail' in query:
         speak("Opening gmail")
-        webbrowser.open("https://mail.google.com/mail/u/0/#inbox")
+        webbrowser.open("https://mail.google.com")
         
     elif 'open messenger' in query:
         speak("Opening Messenger")
-        webbrowser.open("https://www.messenger.com/e2ee/t/27837038135895225") 
+        webbrowser.open("https://www.messenger.com") 
     
     elif 'play music on youtube' in query:
         speak("What song would you like to play?")
