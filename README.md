@@ -140,14 +140,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-## Demo 📽️
-
-Check out a demo of Jarvis in action below (Link to video if available):
-
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
-
----
-
 ## Known Issues ⚠️
 
 - Jarvis may have difficulty understanding speech in very noisy environments. Make sure the microphone is positioned correctly and background noise is minimized.
